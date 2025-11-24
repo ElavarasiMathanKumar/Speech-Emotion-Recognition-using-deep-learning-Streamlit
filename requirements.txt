@@ -1,8 +1,10 @@
 streamlit
 numpy
 librosa
+soundfile
 matplotlib
 tensorflow
 scikit-learn
-soundfile
 pandas
+numba
+llvmlite
